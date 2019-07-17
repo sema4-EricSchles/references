@@ -10,6 +10,10 @@ https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/
 
 http://web.stanford.edu/class/cs109/
 
+Introduction to Linear Algebra:
+
+https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
+
 Introduction to Machine Learning:
 
 https://www.coursera.org/learn/machine-learning
